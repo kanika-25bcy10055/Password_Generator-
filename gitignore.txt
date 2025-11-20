@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
+*.swp
+
+# Pytest cache
+.pytest_cache/
+
+# Pyperclip cache/noise
+.cache/
